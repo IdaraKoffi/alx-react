@@ -1,0 +1,12 @@
+label, input {
+    display: block;
+    margin: 10px 0;
+  }
+  button {
+    background-color: #e0344a;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  

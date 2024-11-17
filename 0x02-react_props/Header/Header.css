@@ -1,0 +1,12 @@
+header {
+    display: flex;
+    align-items: center;
+    color: #e0344a;
+  }
+  header img {
+    height: 200px;
+  }
+  header h1 {
+    margin-left: 20px;
+  }
+  
